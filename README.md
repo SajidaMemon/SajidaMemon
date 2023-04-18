@@ -1,9 +1,9 @@
 ### 👋 Hi, I’m @SajidaMemon
-🌱 I’m currently learning ... Python,React 
-👩🏼‍💻 I’m interested in ... Fullstack development
-👩🏼‍🎓 I recently graduated from ... Hackbright Academy
-📫 How to reach me ...sajidamemon2020@gmail.com
-💬 More about me ...https://www.linkedin.com/in/sajidamemon/
+- 🌱 I’m currently learning ... Python,React 
+- 👩🏼‍💻 I’m interested in ... Fullstack development
+- 👩🏼‍🎓 I recently graduated from ... Hackbright Academy
+- 📫 How to reach me ...sajidamemon2020@gmail.com
+- 💬 More about me ...https://www.linkedin.com/in/sajidamemon/
 
 <!--
 **SajidaMemon/SajidaMemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
