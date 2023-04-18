@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @SajidaMemon
-🌱 I’m currently learning python,react 
-👩🏼‍💻 I’m interested in ... Fullstack development.
-📫 How to reach me 
+- 🌱 I’m currently learning python,react 
+- 👩🏼‍💻 I’m interested in ... Fullstack development.
+- 📫 How to reach me 
 
 <!--
 **SajidaMemon/SajidaMemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
